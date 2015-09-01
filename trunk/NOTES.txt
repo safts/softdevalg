@@ -1,0 +1,12 @@
+-------
+ NOTES
+-------
+
+
+-exit function
+-error function
+-.so libs
+-cli
+-test data
+-comments/readme
+-radius file

@@ -1,0 +1,8 @@
+
+Cluster Recommendation Issues:
+
+1) Pick cluster number such that:
+	n/k >= P
+	
+2) Data must be configured again, because
+

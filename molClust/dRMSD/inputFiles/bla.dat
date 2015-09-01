@@ -1,0 +1,30 @@
+Update loop #0
+Update loop #1
+Update loop #2
+Update loop #3
+Update loop #4
+Update loop #5
+Update loop #6
+Update loop #7
+Update loop #8
+Update loop #9
+CLUSTER-0 {size: 2, medoid: (null)}
+CLUSTER-1 {size: 19, medoid: (null)}
+CLUSTER-2 {size: 9, medoid: (null)}
+CLUSTER-3 {size: 15, medoid: (null)}
+CLUSTER-4 {size: 29, medoid: (null)}
+CLUSTER-5 {size: 68, medoid: (null)}
+CLUSTER-6 {size: 17, medoid: (null)}
+CLUSTER-7 {size: 16, medoid: (null)}
+CLUSTER-8 {size: 6, medoid: (null)}
+CLUSTER-9 {size: 21, medoid: (null)}
+CLUSTER-10 {size: 22, medoid: (null)}
+CLUSTER-11 {size: 19, medoid: (null)}
+CLUSTER-12 {size: 9, medoid: (null)}
+CLUSTER-13 {size: 17, medoid: (null)}
+CLUSTER-14 {size: 4, medoid: (null)}
+CLUSTER-15 {size: 6, medoid: (null)}
+CLUSTER-16 {size: 4, medoid: (null)}
+CLUSTER-17 {size: 11, medoid: (null)}
+CLUSTER-18 {size: 13, medoid: (null)}
+Silhouette: [0.716898,0.168295,0.229937,0.158063,0.070426,0.312604,0.278573,0.114882,0.374007,0.222494,0.295600,0.232944,0.268705,0.083845,0.542578,0.352635,0.519175,0.399340,0.320751,0.249145]
